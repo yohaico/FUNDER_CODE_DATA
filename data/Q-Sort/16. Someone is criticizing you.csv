@@ -1,0 +1,101 @@
+index,response
+1,Your boss calls you into his office to discuss your recent performance.
+2,A coworker finds errors in your work and confronts you about it.
+3,A family member critiques your parenting style.
+4,A friend questions your decision-making abilities.
+5,An acquaintance comments on your outfit choice.
+6,Your partner complains about the cleanliness of the house.
+7,A classmate critiques your presentation during a group project.
+8,A customer complains about the quality of your service.
+9,A teacher provides negative feedback on your essay.
+10,A neighbor complains about the noise level coming from your apartment.
+11,Your in-laws disapprove of your lifestyle choices.
+12,A stranger interrupts your conversation to tell you they disagree with your opinions.
+13,Your coach calls you out in front of the team for not performing well.
+14,An online commenter leaves a negative review of your work.
+15,A client expresses their dissatisfaction with the product you sold them.
+16,A professor publicly criticizes your research methodology.
+17,A roommate confronts you about your messy habits.
+18,Your therapist recommends you make changes in your behavior.
+19,A support group member critiques your attitude during a session.
+20,A mentor suggests you reconsider your career path.
+21,Your doctor points out unhealthy habits during a check-up.
+22,A customer service representative tells you they cannot help you with your problem.
+23,A coworker points out a mistake you made in a meeting.
+24,A family member criticizes your religious beliefs.
+25,A teacher criticizes your participation in class.
+26,A friend disagrees with your political views.
+27,Your partner points out your flaws in a heated argument.
+28,A classmate critiques your choice of sources for a project.
+29,A stranger tells you your music is too loud on public transportation.
+30,A boss points out mistakes in a report you submitted.
+31,A coworker suggests you need more training to do your job properly.
+32,A family member critiques your cooking skills.
+33,A friend believes you're not doing enough for the community.
+34,Your partner criticizes your cooking or food choices.
+35,An acquaintance argues with your parenting choices.
+36,A peer critiques your fashion choices.
+37,A teacher suggests you upgrade your study habits.
+38,A stranger criticizes your driving skills on the road.
+39,A boss suggests that you need to improve your communication skills.
+40,A colleague critiques your public speaking skills in a meeting.
+41,A family member doesn't approve of your business or financial decisions.
+42,A friend thinks you're being frivolous with your spending.
+43,A classmate critiques your time management skills.
+44,A stranger believes you need to be using grammar more correctly.
+45,A coworker thinks you're too aggressive when communicating.
+46,Your partner believes you're too passive in social settings.
+47,A teacher thinks you're too disorganized with your notes.
+48,An online commenter thinks you're too inactive on social media.
+49,A boss thinks you're too reliant on technology.
+50,A family member thinks you're not taking care of yourself enough.
+51,A friend thinks you're too introverted for the job you want.
+52,A classmate thinks you're not assertive enough in group work.
+53,A stranger thinks you're speaking too softly.
+54,Your partner thinks you're too flirtatious with others.
+55,A coworker thinks you're not dressing professionally enough.
+56,A boss thinks you're calling out sick too often.
+57,A family member thinks you're not spending enough time with loved ones.
+58,A friend thinks you're getting too much involved in politics.
+59,A classmate thinks you're not being imaginative enough in your projects.
+60,A stranger thinks you're not using your cell phone properly.
+61,Your partner thinks you're not prioritizing your mental health.
+62,A coworker thinks your office etiquette is lacking.
+63,A boss thinks you're not being flexible in the workplace.
+64,A family member thinks that you're not eating healthily enough.
+65,A friend thinks you're being too picky with potential partners.
+66,A classmate thinks you're not contributing enough to group projects.
+67,A stranger disagrees with your choice of hobbies.
+68,A teacher recommends that you participate more in class discussions.
+69,Your partner thinks you're not being spontaneous enough.
+70,A coworker thinks you're not taking responsibility for your actions.
+71,A boss thinks you're not taking the initiative in the workplace.
+72,A family member thinks you're not independent enough.
+73,A friend thinks you're not adventurous enough.
+74,A classmate thinks you're not thinking creatively for your project.
+75,A stranger thinks you're not being socially responsible enough.
+76,Your partner thinks you're not taking initiative in the relationship.
+77,A coworker thinks you're being too bossy in group work.
+78,A family member thinks you're not expressing your emotions correctly.
+79,A friend thinks you're being too passive-aggressive.
+80,A classmate thinks you're not being active enough on study notes.
+81,A stranger thinks you're not using your time efficiently enough.
+82,Your partner thinks you're not being concise enough in conversations.
+83,A coworker thinks you're not being attentive enough to detail.
+84,A boss thinks you're not managing your time well enough.
+85,A friend thinks you're not being communicative enough.
+86,A family member thinks you're not being generous enough.
+87,A classmate thinks you're not being resourceful enough for group work.
+88,A stranger thinks you're not being attentive enough to fellow travellers.
+89,Your partner thinks you're not being enough supportive to him/her.
+90,A coworker thinks you're being too casual in formal work environments.
+91,A teacher gives you feedback on wrong font type usage for report.
+92,A professor agrees with some of you points but not all of them in a review.
+93,A family member thinks you're not handling your finances responsibly.
+94,A friend thinks you're not being genuine enough in your behavior.
+95,A stranger thinks you're not keeping up hygiene properly.
+96,Your partner thinks you're not being sartorially correct all the time.
+97,A coworker thinks you're not being vigilant enough in email communications.
+98,A boss thinks you're not handling professional rejection well.
+99,A classmate thinks you're not being cooperative enough in group work.
+100,A stranger thinks you're not listening carefully enough.

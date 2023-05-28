@@ -1,0 +1,101 @@
+index,response
+1,A classroom where students must listen to the teacher and raise their hand to speak.
+2,A library where patrons must speak quietly and not disturb others.
+3,A courtroom where participants must speak respectfully and follow the judge's instructions.
+4,A job interview where applicants must dress professionally and answer questions truthfully.
+5,A restaurant where customers must wait to be seated and not bring outside food.
+6,A gym where users must wipe down equipment and not drop weights loudly.
+7,A theme park where guests must follow ride restrictions and not run or climb on attractions.
+8,A voting booth where citizens must mark their choices privately and not show their ballot to others.
+9,An airplane where passengers must follow safety instructions and not smoke or use electronic devices during takeoff and landing.
+10,A museum where visitors must not touch artifacts and stay on designated paths.
+11,A swimming pool where users must shower before entering and follow lifeguard instructions.
+12,A concert where attendees must stay in their assigned seats and not disrupt the performance.
+13,A church where worshippers must dress modestly and not talk or use phones during the service.
+14,A sporting event where fans must not enter the field or interfere with the game.
+15,A courtship ritual where participants must exchange gifts and follow specific communication patterns.
+16,A construction site where workers must wear protective gear and follow safety protocols.
+17,A pregnancy where the expectant mother must avoid certain foods and behaviors.
+18,A dating app where users must provide accurate information and follow respectful communication guidelines.
+19,A shipping yard where vehicles must follow traffic patterns and not exceed weight limits.
+20,A bank where customers must not use cell phones or film inside the building.
+21,A military base where soldiers must follow orders and salute superior officers.
+22,A hospital where patients must wear gowns and follow medical instructions.
+23,A movie theater where patrons must not talk or use their phone during the film.
+24,A cruise ship where passengers must follow safety instructions and not throw objects overboard.
+25,A university where students must attend classes and follow plagiarism and academic honesty policies.
+26,A passport office where applicants must bring specific documents and not arrive late.
+27,A daycare where children must not hit each other or touch others' belongings without permission.
+28,A funeral where mourners must dress appropriately and not disrupt the service.
+29,A train station where passengers must arrive on time and not smoke on the platform.
+30,A social dance where participants must follow specific steps and etiquette guidelines.
+31,A prison where inmates must follow rules and not escape or harm others.
+32,A police checkpoint where drivers must provide identification and vehicle registration.
+33,A courtroom where witnesses must tell the truth and not interrupt or argue with lawyers.
+34,A fishing trip where participants must follow fishing regulations and not harm endangered species.
+35,A job fair where attendees must dress professionally and bring their resume.
+36,A daycare where parents must provide snacks and notify staff of any allergies.
+37,A funeral procession where drivers must obey traffic laws and not honk or pass other cars.
+38,A board game where players must follow the rules and not cheat or change the game pieces.
+39,A high school prom where students must wear formal attire and follow chaperones' instructions.
+40,A hospital where visitors must wash their hands and not bring flowers or gifts that could harm patients.
+41,A job site where employees must arrive on time and not slack off during work hours.
+42,A traffic light where drivers must stop on red and go on green.
+43,A move-in day at college where students must follow dormitory rules and not damage or steal property.
+44,A yoga class where participants must follow the teacher's instructions and not leave early.
+45,A delivery where the recipient must provide a signature and not refuse the package.
+46,A food court where customers must not take items from other tables or leave trash on the floor.
+47,A school bus where students must stay seated and not throw objects or yell.
+48,A church choir where members must wear robes and follow the musical director's instructions.
+49,A job site where workers must not use alcohol or drugs and follow safety procedures.
+50,A grocery store where customers must not open packages or contaminate food.
+51,A workplace where employees must report any incidents or hazards to the supervisor.
+52,A swimming race where participants must start and stop at the sound of the whistle and not interfere with others.
+53,A sewing class where students must follow the pattern and use the correct fabric and supplies.
+54,A bike trail where riders must stay on the designated path and not ride too fast.
+55,A protest march where participants must not physically harm others or damage property.
+56,An etiquette class where students must follow social norms and use proper manners.
+57,A swimming pool party where guests must follow safety rules and not run or dive in shallow water.
+58,A wedding where guests must dress appropriately and not interrupt the ceremony or reception.
+59,A charity auction where bidders must raise their hand and follow the auctioneer's bid increments.
+60,A bike race where participants must wear helmets and not use performance-enhancing drugs.
+61,A ski slope where skiers must follow the designated trails and not ski too fast or recklessly.
+62,A jury duty where jurors must listen attentively and follow the judge's instructions before making a verdict.
+63,A funeral wake where guests must show condolences and not make noise or disturb others.
+64,A birthday party where guests must bring a present and follow the theme's dress code.
+65,A store where customers must respect business hours and not steal or damage property.
+66,An exercise class where participants must wear workout clothes and follow the instructor's movements.
+67,A dormitory where residents must follow quiet hours and not bring pets or prohibited items.
+68,A chess game where players must follow the rules and not move other pieces or touch the board.
+69,A skatepark where skateboarders must follow safety rules and not use obstacles too aggressively.
+70,A hot air balloon ride where passengers must follow safety instructions and not bring restricted items.
+71,A fashion show where models must wear designer clothes and follow choreography and poses.
+72,A construction site where workers must wear hard hats and follow safety guidelines when using heavy machinery.
+73,A golf course where players must follow the rules and not damage the green or hold up the game.
+74,A graduation ceremony where students must wear caps and gowns and follow the dean's speech.
+75,A job site where employees must not harass or discriminate against each other and follow the dress code.
+76,A parade where participants must march in formation and not throw items to the audience.
+77,A summer camp where campers must follow daily routines and not leave the premises without permission.
+78,A food festival where vendors must prepare and serve food safely and follow sanitation regulations.
+79,A roller coaster where riders must follow safety belts and not stick body parts out.
+80,A museum tour where visitors must listen to the audio guide and not touch or move artifacts.
+81,A saucer sled ride where participants must follow the designated path and not bump into others.
+82,"A national park where visitors must not litter, disturb wildlife or enter restricted areas."
+83,A job site where employees must follow the dress code and not engage in unsafe behavior or harassment.
+84,A road trip where passengers must wear seatbelts and not distract the driver or smoke in the car.
+85,A hair salon where customers must make an appointment and not leave hair on the floor or damage equipment.
+86,A science lab where students must follow lab protocols and not spill or mix chemicals inappropriately.
+87,A flower show where exhibitors must arrange and label flowers correctly and follow design categories.
+88,A cooking competition where contestants must follow the recipe and use the provided ingredients.
+89,A military drill where soldiers must follow commands and perform movements in formation.
+90,A fire drill where employees must follow evacuation protocols and not panic or use the elevators.
+91,A pet store where customers must not handle animals too aggressively or bring their own pets.
+92,A cultural festival where participants must wear traditional garb and follow customs and practices.
+93,A beer festival where vendors must serve drinks responsibly and follow alcohol regulations.
+94,A hiking trail where visitors must stay on the designated path and not litter or disturb plants.
+95,A science museum exhibit where visitors must not touch fragile items or cross the red line.
+96,A charity event where volunteers must follow the event's dress code and prioritize participants' safety.
+97,A speed dating event where participants must be respectful and follow time constraints and conversation topics.
+98,A haunted house where visitors must follow the designated path and not touch actors or props.
+99,A corn maze where visitors must stay on the designated path and not enter the maze after the closing time.
+100,A bowling alley where customers must not throw balls too forcefully or onto neighboring lanes.

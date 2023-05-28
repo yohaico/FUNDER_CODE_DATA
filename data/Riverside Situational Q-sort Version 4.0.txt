@@ -1,0 +1,200 @@
+1. The situation is potentially enjoyable.
+I'm a university researcher, studying situations.  My current interest is in potentially enjoyable situations. Please generate 100 different potentially enjoyable situations. Each situation should be no more than 100 words long.
+2. The situation is complex.
+I'm a university researcher, studying situations. My current interest is in complex situations. Please generate 100 different complex situations. Each situation should be no more than 100 words long.
+3. A job needs to be done.
+I'm a university researcher, studying situations. My current interest is in situations where a job needs to be done. Please generate 100 different situations where a job needs to be done. Each situation should be no more than 100 words long.
+4. Someone is trying to impress you.
+I'm a university researcher, studying situations. My current interest is in situations where someone is trying to impress you. Please generate 100 different situations where someone is trying to impress you. Each situation should be no more than 100 words long.
+5. Someone is trying to convince you of something.
+I'm a university researcher, studying situations. My current interest is in situations where someone is trying to convince you of something. Please generate 100 different situations where someone is trying to convince you of something. Each situation should be no more than 100 words long.
+6. Someone is counting on you to do something.
+I'm a university researcher, studying situations. My current interest is in situations where someone is counting on you to do something. Please generate 100 different situations where someone is counting on you to do something. Each situation should be no more than 100 words long.
+7. Talking is permitted.
+I'm a university researcher, studying situations. My current interest is in situations where talking is permitted. Please generate 100 different situations where talking is permitted. Each situation should be no more than 100 words long.
+8. Talking is expected or demanded.
+I'm a university researcher, studying situations. My current interest is in situations where talking is expected or demanded. Please generate 100 different situations where talking is expected or demanded. Each situation should be no more than 100 words long.
+9. Someone is asking you for something.
+I'm a university researcher, studying situations. My current interest is in situations where someone is asking you for something. Please generate 100 different situations where someone is asking you for something. Each situation should be no more than 100 words long.
+10. Someone needs help.
+I'm a university researcher, studying situations. My current interest is in situations where someone needs help. Please generate 100 different situations where someone needs help. Each situation should be no more than 100 words long.
+11. Minor details are important.
+I'm a university researcher, studying situations. My current interest is in situations where minor details are important. Please generate 100 different situations where minor details are important. Each situation should be no more than 100 words long.
+12. Politics are relevant (for example a political discussion).
+I'm a university researcher, studying situations. My current interest is in situations where politics is relevant. Please generate 100 different situations where politics is relevant. Each situation should be no more than 100 words long.
+13. Intelligence is important (for example an intellectual discussion, or a complex problem that needs to be solved).
+I'm a university researcher, studying situations. My current interest is in situations where intelligence is important. Please generate 100 different situations where intelligence is important. Each situation should be no more than 100 words long.
+14. It is not clear what is going on; the situation is uncertain.
+I'm a university researcher, studying situations. My current interest is in uncertain situations where it is not clear what is going on. Please generate 100 different situations where the situation is uncertain, and it is not clear what is going on. Each situation should be no more than 100 words long.
+15. Someone is under threat.
+I'm a university researcher, studying situations. My current interest is in situations where someone is under threat. Please generate 100 different situations where someone is under threat. Each situation should be no more than 100 words long.
+16. Someone is criticizing you
+I'm a university researcher, studying situations. My current interest is in situations where someone is criticizing you. Please generate 100 different situations where someone is criticizing you. Each situation should be no more than 100 words long.
+17. Someone is attempting to dominate or boss you.
+I'm a university researcher, studying situations. My current interest is in situations where someone is attempting to dominate or boss you. Please generate 100 different situations where someone is attempting to dominate or boss you. Each situation should be no more than 100 words long.
+18. The situation is playful.
+I'm a university researcher, studying situations. My current interest is in playful situations. Please generate 100 different examples of situations that are playful. Each situation should be no more than 100 words long.
+19. The situation is rapidly changing
+I'm a university researcher, studying situations. My current interest is in situations that are rapidly changing. Please generate 100 different examples where the situation is rapidly changing. Each example should be no more than 100 words long.
+20. Someone is unhappy or suffering.
+I'm a university researcher, studying situations. My current interest is in situations where someone is unhappy or suffering. Please generate 100 different situations where someone is unhappy or suffering. Each situation should be no more than 100 words long.
+21. A reassuring person is present.
+I'm a university researcher, studying situations. My current interest is in situations where a reassuring person is present. Please generate 100 different situations where a reassuring person is present. Each situation should be no more than 100 words long.
+22. Someone is blaming you for something.
+I'm a university researcher, studying situations. My current interest is in situations where someone is blaming you for something. Please generate 100 different situations where someone is blaming you for something. Each situation should be no more than 100 words long.
+23. A decision needs to be made.
+I'm a university researcher, studying situations.  My current interest is in situations where a decision needs to be made. Please generate 100 different situations where a decision needs to be made. Each situation should be no more than 100 words long.
+24. Self-control is necessary (for yourself or others).
+I'm a university researcher, studying situations. My current interest is in situations where self-control is necessary. Please generate 100 different situations where self-control is necessary. Each situation should be no more than 100 words long.
+25. People are competing with each other.
+I'm a university researcher, studying situations. My current interest is in situations where people are competing with each other. Please generate 100 different situations where people are competing with each other. Each situation should be no more than 100 words long.
+26. Someone needs or desires reassurance.
+I'm a university researcher, studying situations. My current interest is in situations where someone needs or desires reassurance. Please generate 100 different situations where someone needs or desires reassurance. Each situation should be no more than 100 words long.
+27. The situation is frustrating (for example a goal is blocked).
+I'm a university researcher, studying situations. My current interest is in frustrating situations. Please generate 100 different frustrating situations. Each situation should be no more than 100 words long.
+28. Your physical attractiveness is important.
+I'm a university researcher, studying situations. My current interest is in situations where your physical attractiveness is important. Please generate 100 different situations where your physical attractiveness is important. Each situation should be no more than 100 words long.
+29. You need to make a good impression.
+I'm a university researcher, studying situations.  My current interest is in situations where you need to make a good impression. Please generate 100 different situations where you need to make a good impression. Each situation should be no more than 100 words long.
+30. The situation could make people tense and upset.
+I'm a university researcher, studying situations. My current interest is in situations that could make people tense and upset. Please generate 100 different situations that could make people tense and upset. Each situation should be no more than 100 words long.
+31. The situation includes small annoyances.
+I'm a university researcher, studying situations. My current interest is in situations that include small annoyances. Please generate 100 different situations that include small annoyances. Each situation should be no more than 100 words long.
+32. The situation could make people feel hostile.
+I'm a university researcher, studying situations.  My current interest is in situations that could make people feel hostile. Please generate 100 different situations that could make people feel hostile. Each situation should be no more than 100 words long.
+33. People are disagreeing about something.
+I'm a university researcher, studying situations. My current interest is in situations where people disagree about something. Please generate 100 different situations where people disagree about something. Each situation should be no more than 100 words long.
+34. Unusual ideas or points of view are being discussed freely.
+I'm a university researcher, studying situations. My current interest is in situations where unusual ideas or points of view are being discussed freely. Please generate 100 different situations where ideas or points of view are being discussed freely. Each situation should be no more than 100 words long.
+35. Physical threats are present.
+I'm a university researcher, studying situations. My current interest is in situations where a physical threat is present. Please generate 100 different situations where a physical threat is preset. Each situation should be no more than 100 words long.
+36. Emotional threats are present.
+I'm a university researcher, studying situations.  My current interest is in situations where emotional threats are present. Please generate 100 different situations where emotional threats are present. Each situation should be no more than 100 words long.
+37. Moral or ethical issues are relevant.
+I'm a university researcher, studying situations. My current interest is in situations where moral or ethical issues are relevant. Please generate 100 different situations where moral or ethical issues are relevant. Each situation should be no more than 100 words long.
+38. Quick action is necessary.
+I'm a university researcher, studying situations. My current interest is in situations where quick action is necessary. Please generate 100 different situations where quick action is necessary. Each situation should be no more than 100 words long.
+39. Emotions can be expressed.
+I'm a university researcher, studying situations. My current interest is in situations where emotions can be expressed. Please generate 100 different situations where emotions can be expressed. Each situation should be no more than 100 words long.
+40. It is possible to ruminate, daydream, or fantasize.
+I'm a university researcher, studying situations. My current interest is in situations where it is possible to ruminate, daydream, or fantasize. Please generate 100 different situations where it is possible to ruminate, daydream, or fantasize. Each situation should be no more than 100 words long.
+41. The situation is noisy (low placement means the situation is very quiet).
+I'm a university researcher, studying situations. My current interest is in noisy situations. Please generate 100 different noisy situations. Each situation should be no more than 100 words long.
+42. The people who are present have close personal relationships with each other.
+I'm a university researcher, studying situations.  My current interest is in situations where the people who are present have close personal relationships with each other. Please generate 100 different situations where the people who are present have close personal relationships with each other. Each situation should be no more than 100 words long.
+43. Someone present (other than you) is counted on to do something. 
+I'm a university researcher, studying situations. My current interest is in situations where someone present is counted on to do something. Please generate 100 different situations where someone present is counted on to do something. Each situation should be no more than 100 words long.
+44. The situation could be intellectually stimulating.
+I'm a university researcher, studying situations. My current interest is in situations that could be intellectually stimulating. Please generate 100 different situations that could be intellectually stimulating. Each situation should be no more than 100 words long.
+45. Assertiveness is required to accomplish a goal. 
+I'm a university researcher, studying situations. My current interest is in situations where assertiveness is required to accomplish a goal. Please generate 100 different situations where assertiveness is required to accomplish a goal. Each situation should be no more than 100 words long.
+46. Desires could be gratified (for example, food, shopping, sexual opportunities)
+I'm a university researcher, studying situations. My current interest is in situations where desires could be gratified. Please generate 100 different situations where desires could be gratified. Each situation should be no more than 100 words long.
+47. Social interaction is possible.
+I'm a university researcher, studying situations. My current interest is in situations where social interaction is possible. Please generate 100 different situations where social interaction is possible. Each situation should be no more than 100 words long.
+48. The situation is humorous or potentially humorous.
+I'm a university researcher, studying situations. My current interest is in humorous situations. Please generate 100 different humorous situations. Each situation should be no more than 100 words long.
+49. You are the focus of attention.
+I'm a university researcher, studying situations. My current interest is in situations where you are the focus of attention. Please generate 100 different situations where you are the focus of attention. Each situation should be no more than 100 words long.
+50. Sensations are important (for example touch, taste, smell, and physical contact).
+I'm a university researcher, studying situations. My current interest is in situations where sensations (e.g., touch, taste, smell, physical contact) are important. Please generate 100 different situations where sensations (e.g., touch, taste, smell, physical contact) are important. Each situation should be no more than 100 words long.
+51. The situation is relevant to your health (for example the possibility of illness, or a medical visit).
+I'm a university researcher, studying situations. My current interest is in situations that are relevant to your health. Please generate 100 different situations that are relevant to your health. Each situation should be no more than 100 words long.
+52. Clear rules define appropriate behavior (whether or not the rules are being followed).
+I'm a university researcher, studying situations. My current interest is in situations where clear rules define the appropriate behavior. Please generate 100 different situations where clear rules define the appropriate behavior. Each situation should be no more than 100 words long.
+53. Someone is breaking rules.
+I'm a university researcher, studying situations. My current interest is in situations where someone is breaking the rules. Please generate 100 different situations where someone is breaking the rules. Each situation should be no more than 100 words long.
+54. Art is an important part of the situation.
+I'm a university researcher, studying situations. My current interest is in situations involving art. Please generate 100 different situations involving art. Each situation should be no more than 100 words long.
+55. The situation is potentially anxiety-inducing.
+I'm a university researcher, studying situations. My current interest is in situations that are anxiety-inducing. Please generate 100 different situations that are anxiety-inducing. Each situation should be no more than 100 words long.
+56. Ambition can be expressed or demonstrated.
+I'm a university researcher, studying situations. My current interest is in situations where ambition can be expressed or demonstrated. Please generate 100 different situations where ambition can be expressed or demonstrated. Each situation should be no more than 100 words long.
+57. The situation could make you feel inadequate.
+I'm a university researcher, studying situations. My current interest is in situations that can make you feel inadequate. Please generate 100 different situations that can make you feel inadequate. Each situation should be no more than 100 words long.
+58. Sexuality is relevant.
+I'm a university researcher, studying situations. My current interest is in situations involving sexuality. Please generate 100 different situations involving sexuality. Each situation should be no more than 100 words long.
+59. You are being abused or victimized.
+I'm a university researcher, studying situations. My current interest is in situations where you are being abused or victimized. Please generate 100 different situations where you are being abused or victimized. Each situation should be no more than 100 words long.
+60. The presence of members of the opposite sex is an important part of this situation.
+I'm a university researcher, studying situations. My current interest is in situations where the presence of members of the opposite sex is an important part of the situation. Please generate 100 different situations where the presence of members of the opposite sex is an important part of the situation. Each situation should be no more than 100 words long.
+61. Potential or actual romantic partners (for you) are present.
+I'm a university researcher, studying situations. My current interest is in situations where potential or actual romantic partners are present. Please generate 100 different situations where potential or actual romantic partners are present. Each situation should be no more than 100 words long.
+62. The situation is simple and clear-cut.
+I'm a university researcher, studying situations. My current interest is in situations that are simple and clear-cut. Please generate 100 different situations that are simple and clear-cut. Each situation should be no more than 100 words long.
+63. People are comparing themselves to each other.
+I'm a university researcher, studying situations. My current interest is in situations where people are comparing themselves to each other. Please generate 100 different situations where people are comparing themselves to each other. Each situation should be no more than 100 words long.
+64. Power is important.
+I'm a university researcher, studying situations. My current interest is in situations where power is important. Please generate 100 different situations where power is important. Each situation should be no more than 100 words long.
+65. Masculinity can be expressed.
+I'm a university researcher, studying situations. My current interest is in situations where masculinity can be expressed. Please generate 100 different situations where masculinity can be expressed. Each situation should be no more than 100 words long.
+66. Others want advice from you.
+I'm a university researcher, studying situations. My current interest is in situations where others want advice from you. Please generate 100 different situations where others want advice from you. Each situation should be no more than 100 words long.
+67. The situation could arouse positive emotions.
+I'm a university researcher, studying situations. My current interest is in situations that could arouse positive emotions. Please generate 100 different situations that could arose positive emotions. Each situation should be no more than 100 words long.
+68. The situation could arouse negative emotions.
+I'm a university researcher, studying situations. My current interest is in situations that could arose negative emotions. Please generate 100 different situations that can arouse negative emotions. Each situation should be no more than 100 words long.
+69. There are opportunities to display verbal fluency (for example a debate, a monologue, or an active conversation).
+I'm a university researcher, studying situations. My current interest is in situations where there is an opportunity to display verbal fluency. Please generate 100 different situations where there is an opportunity to display verbal fluency. Each situation should be no more than 100 words long.
+70. People who are present occupy different social roles or levels of status.
+I'm a university researcher, studying situations. My current interest is in situations where people have different levels of status. Please generate 100 different situations where people have different levels of status. Each situation should be no more than 100 words long.
+71. You are being pressured to conform to the actions of others.
+I'm a university researcher, studying situations. My current interest is in situations where you are being pressured to conform to the actions of others. Please generate 100 different situations where you are being pressured to conform to the actions of others. Each situation should be no more than 100 words long.
+72. Success requires cooperation.
+I'm a university researcher, studying situations. My current interest is in situations where success requires cooperation. Please generate 100 different situations where success requires cooperation. Each situation should be no more than 100 words long.
+73. Someone is complimenting or praising you.
+I'm a university researcher, studying situations. My current interest is in situations where someone is complimenting or praising you. Please generate 100 different situations where someone is complimenting or praising you. Each situation should be no more than 100 words long.
+74. Femininity can be expressed.
+I'm a university researcher, studying situations. My current interest is in situations where femininity can be expressed. Please generate 100 different situations where femininity can be expressed. Each situation should be no more than 100 words long.
+75. Religion is relevant in this situation (for example a religious service or discussion)
+I'm a university researcher, studying situations. My current interest is in situations that have a religious aspect. Please generate 100 different situations that have a religious aspect. Each situation should be no more than 100 words long.
+76. Someone needs to be taken care of.
+I'm a university researcher, studying situations. My current interest is in situations where someone needs to be taken care of. Please generate 100 different situations where someone needs to be taken care of. Each situation should be no more than 100 words long.
+77. Many things are happening at once.
+I'm a university researcher, studying situations. My current interest is in situations where many things are happening at once. Please generate 100 different situations where many things are happening at once. Each situation should be no more than 100 words long.
+78. People are being physically active.
+I'm a university researcher, studying situations. My current interest is in situations where people are physically active. Please generate 100 different situations where people are physically active. Each situation should be no more than 100 words long.
+79. People are working hard.
+I'm a university researcher, studying situations. My current interest is in situations where people are working hard. Please generate 100 different situations where people are working hard. Each situation should be no more than 100 words long.
+80. Food is important in this situation.
+I'm a university researcher, studying situations. My current interest is in situations where food is important. Please generate 100 different situations where food is important. Each situation should be no more than 100 words long.
+81. The situation is physically uncomfortable (for example too hot, too crowded, too cold, etc.). 
+I'm a university researcher, studying situations. My current interest is in situations that are physically uncomfortable. Please generate 100 different situations that are physically uncomfortable. Each situation should be no more than 100 words long.
+82. Family is important in this situation.
+I'm a university researcher, studying situations. My current interest is in situations where family is important. Please generate 100 different situations where family is important. Each situation should be no more than 100 words long.
+83. A matter of honor is at stake.
+I'm a university researcher, studying situations. My current interest is in situations where a matter of honor is at stake. Please generate 100 different situations where a matter of honor is at stake. Each situation should be no more than 100 words long.
+84. Money is important.
+I'm a university researcher, studying situations. My current interest is in situations where money is important. Please generate 100 different situations where money is important. Each situation should be no more than 100 words long.
+85. People are participating in athletics or sports.
+I'm a university researcher, studying situations. My current interest is in situations where people are participating in athletics or sports. Please generate 100 different situations where people are participating in athletics or sports. Each situation should be no more than 100 words long.
+86. Someone is feeling shame.
+I'm a university researcher, studying situations. My current interest is in situations where someone is feeling shame. Please generate 100 different situations where someone is feeling shame. Each situation should be no more than 100 words long.
+87. Music is an important part of this situation.
+I'm a university researcher, studying situations. My current interest is in situations where music is an important part of the situation. Please generate 100 different situations where music is an important part of the situation. Each situation should be no more than 100 words long.
+88. New relationships could develop.
+I'm a university researcher, studying situations. My current interest is in situations where new relationships could develop. Please generate 100 different situations where new relationships could develop. Each situation should be no more than 100 words long.
+89. people need to get along.
+I'm a university researcher, studying situations. My current interest is in situations where people need to get along. Please generate 100 different situations where people need to get along. Each situation should be no more than 100 words long.
+90. Entertainment is present
+I'm a university researcher, studying situations. My current interest is in situations where entertainment is present. Please generate 100 different situations where entertainment is present. Each situation should be no more than 100 words long.
+91. Prestige1
+I'm a university researcher, studying situations. My current interest is in situations where members of a group respect and admire someone. Please generate 100 different situations where members of a group respect and admire someone. Each situation should be no more than 100 words long.
+92. Prestige2
+I'm a university researcher, studying situations. My current interest is in situations where someone is conceived by his social group as successful. Please generate 100 different situations where someone is conceived by his social group as successful. Each situation should be no more than 100 words long.
+93. Prestige3
+I'm a university researcher, studying situations. My current interest is in situations where someone is considered by the members of his group to be extremely talented. Please generate 100 different situations where someone is conceived by the members of his group to be extremely talented. Each situation should be no more than 100 words long.
+94. Prestige4
+I'm a university researcher, studying situations. My current interest is in situations where someone holds high prestige among the members of his group. Please generate 100 different situations where someone holds great prestige among the members of his group. Each situation should be no more than 100 words long.
+95. Prestige5
+I'm a university researcher, studying situations. My current interest is in situations where members of a group seek the advice of a respected person. Please generate 100 different situations where the members of a group seek the advice of a respected individual. Each situation should be no more than 100 words long.
+96. Dominance1
+I'm a university researcher, studying situations. My current interest is in situations where someone often tries to get his/her way regardless of what others in the group may want. Please generate 100 different situations where someone often tries to get his/her way regardless of what others in the group may want. Each situation should be no more than 100 words long.
+97. Dominance2
+I'm a university researcher, studying situations. My current interest is in situations where someone enjoys having control over other members of his group. Please generate 100 different situations where someone enjoys having control over other members of his group. Each situation should be no more than 100 words long.
+98. Dominance3
+I'm a university researcher, studying situations. My current interest is in situations where someone is willing to use aggressive tactics to get his/her way. Please generate 100 different situations where someone is willing to use aggressive tactics to get his/her way. Each situation should be no more than 100 words long.
+99. Dominance4
+I'm a university researcher, studying situations. My current interest is in situations where someone tries to control others rather than permit them to control him/her. Please generate 100 different situations where someone tries to control others rather than permit them to control him/her. Each situation should be no more than 100 words long.
+100. Dominance5
+I'm a university researcher, studying situations. My current interest is in situations where members of a group are afraid of one of them. Please generate 100 different situations where members of a group are afraid of one of them. Each situation should be no more than 100 words long.

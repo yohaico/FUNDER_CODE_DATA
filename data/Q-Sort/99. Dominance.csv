@@ -1,0 +1,101 @@
+index,response
+1,"A boss micromanages their employees, constantly checking in and interfering with their work."
+2,"A parent insists their child take a certain career path, despite the child's own desires."
+3,A teacher berates students who don't conform to their strict academic standards.
+4,"A coach forces athletes to adhere to a rigid training regimen, without regard for individual needs."
+5,"A landlord imposes strict rules, such as no noise after 9 pm or no pets allowed."
+6,"An overbearing spouse controls their partner's every movement, isolating them from friends and family."
+7,"A business owner disregards the input of employees, and makes decisions based solely on their own interests."
+8,"A religious leader dictates the beliefs of their followers, refusing any alternative perspectives."
+9,"A political leader silences opposition, refusing to consider alternative viewpoints or criticism."
+10,A manager threatens to fire employees who don't meet their unrealistic goals or standards.
+11,An older sibling bullies their younger siblings into doing their bidding.
+12,"A friend constantly insists on making all plans and decisions, disregarding others' preferences."
+13,A controlling partner manipulates their significant other into doing what they want.
+14,"An influencer pushes their followers to buy certain products, despite potential harm or negative consequences."
+15,"A doctor insists on treating a patient in a certain way, without considering their preferences or beliefs."
+16,"A social media platform monitors and censors content, often without transparency or explanation."
+17,"A celebrity demands special treatment or accommodations, due to their status."
+18,"A judge dismisses alternative arguments or evidence, based solely on their own opinions."
+19,An employer denies time off or accommodations for employees with disabilities or personal needs.
+20,A police officer abuses their power and mistreats marginalized individuals or communities.
+21,A military commander makes decisions that harm or endanger their own troops.
+22,A hacker infiltrates personal accounts or data for their own gain or amusement.
+23,A lobbyist influences legislation for their own interests or the interests of their clients.
+24,A scientist falsifies data or suppresses findings that contradict their own beliefs or research.
+25,"A public speaker silences or discredits those who disagree with them, rather than engaging in meaningful discourse."
+26,"A store owner misrepresents the quality or safety of their products, to increase profits."
+27,A media outlet deliberately spreads false information or propaganda to influence public opinion.
+28,"An organization enforces strict dress codes or grooming standards, without regard for individual expression or comfort."
+29,"A company imposes rigid work schedules, without options for flexibility or remote work."
+30,"A dietitian or nutritionist insists on a certain diet or regimen, disregarding individual needs or limitations."
+31,An online forum moderator censors or bans users for expressing differing opinions or beliefs.
+32,"A teacher assigns only one specific book for students to read, without considering diverse perspectives or interests."
+33,"A boss insists on looming deadlines and pressures employees to work long hours, disregarding the negative impact on mental health."
+34,"A landlord restricts access or use of common areas or amenities, without transparency or explanation."
+35,"A neighbor complains about small or insignificant noise or actions, rather than attempting to resolve the issue through communication."
+36,A religious group ostracizes members who question beliefs or do not adhere strictly to certain rules or practices.
+37,"A partner monopolizes conversations, constantly talking without allowing their significant other to speak."
+38,A politician manipulates their constituents with false promises or scare tactics.
+39,A mentor has unrealistic expectations and pressures their mentee to follow their exact career path or emulate their successes.
+40,"A therapist invalidates their patient's emotions or experiences, rather than providing a safe and supportive space for healing."
+41,"A coach disregards safety protocols or puts athletes in dangerous or unnecessary situations, in order to win games or competitions."
+42,"A friend disapproves of their other friend's romantic partner or choices, and constantly tries to interfere or undermine the relationship."
+43,"A professor grades harshly and refuses to provide constructive feedback, rather than helping students grow and learn."
+44,"A business owner dismisses the importance of environmental sustainability or worker's rights, in favor of profit."
+45,"A family member or caregiver makes decisions for a person with disabilities, without consulting them or considering their autonomy."
+46,"A doctor forces a patient to undergo a certain treatment, without explaining potential risks or alternatives."
+47,"A school enforces zero-tolerance policies, without considering context or individual circumstances."
+48,"A dating app discriminates against certain groups, based on gender, sexuality, or religious affiliation."
+49,"An influencer or celebrity denies accountability for harmful actions or language, and refuses to learn from their mistakes."
+50,"A politician participates in gerrymandering or voter suppression, to maintain their own power or control."
+51,"A bar or nightclub enforces strict dress codes, often excluding marginalized or lower-income individuals."
+52,A social group ostracizes members who do not conform to certain social or cultural norms or expectations.
+53,"A parent forces their child to pursue a certain hobby or extracurricular activity, even if they don't enjoy it."
+54,"A teacher shames or blames students for not grasping a certain concept or failing a test, rather than providing additional support or resources."
+55,"A coach or trainer pressures their athletes or clients to lose unhealthy amounts of weight or develop extreme muscles, without considering long-term health or injury risks."
+56,"A boss disregards the mental health or well-being of their employees, creating a toxic work environment."
+57,"A religious leader or organization excludes or discriminates against LGBTQ+ individuals, citing religious beliefs."
+58,"A media outlet focuses exclusively on sensationalized or negative news, rather than providing balanced or informative reporting."
+59,"A neighbor hoards or accumulates large amounts of possessions, creating safety or hygiene concerns for the community."
+60,"A social media influencer promotes products or services without proper disclosure, misleading followers or violating ethical standards."
+61,"A school or teacher denies access or accommodations for students with disabilities, citing lack of funding or resources."
+62,A political candidate uses inflammatory or degrading language to appeal to certain voters or factions.
+63,"A celebrity or public figure perpetuates harmful stereotypes or promotes false information, without acknowledging the harm it may cause."
+64,"An organization or business enforces rigid hierarchies or power structures, rather than promoting collaboration or empowerment."
+65,"A therapist abuses their power or discredits their patient's experiences, endangering their physical or mental health."
+66,"A coach uses physical or mental intimidation to motivate or discipline athletes, creating a harmful or abusive environment."
+67,"A friend constantly criticizes or belittles their other friends, rather than providing support or encouragement."
+68,"A professor or teacher denies alternative perspectives or discussions, creating an environment of intellectual stagnation."
+69,A business or corporation pays employees unfairly or engages in exploitative labor practices.
+70,A family member or caregiver attempts to control or undermine a person's romantic relationship or marriage.
+71,"A politician or governing body ignores the voices or needs of marginalized communities, perpetuating systemic inequality."
+72,"A religious leader or organization shames or ostracizes members who engage in premarital sex or use contraception, regardless of personal beliefs or choices."
+73,A media outlet perpetuates harmful beauty standards or promotes unattainable or harmful dieting or exercise practices.
+74,"A coworker engages in harassment or discriminates against others based on their gender, race, or sexuality."
+75,"A parent forces their child to adhere to certain religious or cultural practices, without allowing them to form their own beliefs or values."
+76,"A teacher or administrator enforces strict rules or dress codes, without considering the negative impact on students' self-expression or comfort."
+77,"A coach or trainer ignores or dismisses injury reports or concerns, prioritizing success over the health or safety of athletes or clients."
+78,"A boss or manager treats employees unfairly or harasses them, due to their own biases or prejudices."
+79,"A religious leader or organization promotes harmful or dangerous practices, such as conversion therapy or exorcism."
+80,"A therapist or counselor ignores or dismisses a patient's claims of abuse or neglect, endangering their physical or mental health."
+81,"A politician or governing body minimizes or denies the impact of climate change, putting future generations at risk."
+82,"A school or teacher enforces strict disciplinary policies, without providing resources or support for students facing mental health or behavioral issues."
+83,"A business or corporation engages in exploitative labor practices or pollutes the environment, prioritizing profit over the well-being of people and the planet."
+84,"A family member or caregiver demands control over a person's living or medical decisions, without respecting their autonomy or wishes."
+85,"A celebrity or public figure glorifies or promotes negative behaviors, such as drug abuse or violence."
+86,"A coworker or friend constantly undermines or belittles others, creating a hostile or negative environment."
+87,"A parent or caregiver forces a child to participate in activities or sports they do not enjoy or have interest in, disregarding their own desires and talents."
+88,"A teacher or administrator discriminates against students based on their race, gender, or sexuality, rather than providing equal opportunities and resources."
+89,"A coach or trainer ignores or dismisses concerns raised by athletes or clients, risking their physical or mental health."
+90,A boss or manager makes decisions that impact employees without consulting them or considering their needs and preferences.
+91,"A religious leader or organization ignores or undermines the rights and needs of LGBTQ+ individuals, perpetuating systemic discrimination and harm."
+92,"A therapist or counselor violates their patient's trust or confidentiality, causing harm or distress."
+93,A politician or governing body engages in corruption or prioritizes their own interests over the well-being of their constituents.
+94,"A school or teacher enforces strict academic standards or testing, without providing support or resources for students facing learning disabilities or mental health challenges."
+95,"A business or corporation engages in unsustainable practices or harms the environment, disregarding the long-term health and safety of the planet."
+96,"A family member or caregiver withholds or limits access to resources, such as medication or education, to control a person's behavior or beliefs."
+97,"A celebrity or public figure exploits their platform or persona for personal gain or attention, without using their influence for positive change."
+98,"A coworker or friend spreads rumors or gossip about others, causing harm or distress to those involved."
+99,"A parent or caregiver belittles or dismisses a child's feelings or mental health concerns, creating a negative or harmful environment."
+100,"A therapist or counselor engages in discriminatory or harmful practices, such as conversion therapy, damaging the physical or mental health of their patients."
